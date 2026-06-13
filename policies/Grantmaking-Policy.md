@@ -219,7 +219,7 @@ Due diligence requirements are organized by the type of recipient and by any hei
 - the diligence memo for the Grant; and
 - any related documents needed for Director evaluation.
 
-§7.2.3. **Required signatures.** Approval by Written Consent requires the signatures of a majority of the Directors then in office, returned within the response period set forth in the Written Consent package (which shall not be less than five (5) business days from distribution).
+§7.2.3. **Required signatures.** Approval by Written Consent requires the affirmative signatures of two-thirds (2/3) of the Directors then in office, consistent with Bylaws Article III §16.3, returned within the response period set forth in the Written Consent package (which shall not be less than five (5) business days from distribution). Where two-thirds of the Directors then in office is not a whole number, the required number of signatures shall be rounded up to the next whole Director.
 
 §7.2.4. **Director's right to require meeting consideration.** Any Director may, within the response period, decline to sign the Written Consent and request that the Grant be brought to a regular or special meeting of the Board for consideration. Upon any such request, the Written Consent process for that Grant is suspended and the Grant shall be considered at the next regular Board meeting or at a special meeting called for the purpose. The requesting Director need not provide reasons.
 
@@ -233,7 +233,7 @@ Due diligence requirements are organized by the type of recipient and by any hei
 
 §7.3.2. Any Grant the Board Chair, the Grants Lead, or any Director has determined warrants synchronous Board discussion.
 
-§7.4. **Approval threshold.** Whether by meeting vote or by Written Consent, approval of a Grant requires the affirmative vote (or signature) of a majority of the Directors then in office (excluding any Director recused under the Conflict of Interest Policy).
+§7.4. **Approval threshold.** Approval of a Grant requires (a) at a meeting, the affirmative vote of a majority of the Directors then in office and present (excluding any Director recused under the Conflict of Interest Policy), in accordance with Bylaws Article III §15; or (b) by Written Consent, the affirmative signatures of two-thirds (2/3) of the Directors then in office, in accordance with §7.2.3 of this Policy and Bylaws Article III §16.3. A recused Director is treated as not in office for purposes of computing the required threshold for the matter from which they are recused, consistent with Bylaws Article III §14.4.
 
 §7.5. **Board oversight.** Approvals by Written Consent do not relieve the Board of its ongoing oversight responsibility. The Board retains authority to review and, prior to disbursement, modify or rescind any Written Consent approval at any subsequent regular or special meeting.
 
