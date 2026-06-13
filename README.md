@@ -35,6 +35,7 @@ The operating framework between the two entities will be memorialized in a non-b
 
 ```
 .
+├── Structure-Research-Report.md               Why the Foundation is structured this way (analysis + precedents)
 ├── Bylaws.md                                  Foundation Bylaws
 ├── policies/
 │   ├── Conflict-of-Interest-Policy.md         COI framework + DUNA-Crossover Provisions
@@ -53,6 +54,8 @@ The operating framework between the two entities will be memorialized in a non-b
 ```
 
 ### Reading order (suggested)
+
+New to this? Start with the **[Structure Research Report](Structure-Research-Report.md)** — a plain-language explanation of *why* the Foundation is built this way, how it compares to other DAO/charity models, and the reasoning behind each major decision. Then read the instruments themselves:
 
 1. **[Bylaws](Bylaws.md)** — corporate constitution. Defines the Board, officers, Director Nomination Process, fiscal matters, and indemnification.
 2. **[DUNA-501c3 MOU](agreements/DUNA-501c3-MOU.md)** — operating framework between Nouns DAO and the Foundation. Read this before the policies to understand the structural posture.
